@@ -33,11 +33,9 @@ A minimal, adjustable, transparent overlay window for macOS, designed to reduce 
 
 Ensure Swift is installed. Run directly from Terminal:
 
-sh
-
-CopyEdit
-
-`chmod +x tinted_window.swift ./tinted_window.swift`
+```sh 
+chmod +x tinted_window.swift ./tinted_window.swift
+```
 
 ---
 
